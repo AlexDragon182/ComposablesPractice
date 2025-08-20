@@ -7,3 +7,6 @@ object HomeScreen
 
 @Serializable
 object TimeScreen
+
+@Serializable
+object CreateCharacterScreen

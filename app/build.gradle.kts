@@ -4,6 +4,9 @@ plugins {
     alias(libs.plugins.kotlin.compose)
     //NAVEGACION CON TIPO SEGURO
     alias(libs.plugins.jetbrainsKotlinSerialization)
+    alias(libs.plugins.kotlin.parcelize)
+    //kotlin("plugin.serialization") version "1.9.23"
+
 
 }
 
